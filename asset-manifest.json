@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.db6bade4.css",
+    "main.js": "./static/js/main.b6d6dbad.js",
+    "static/js/453.d855a71b.chunk.js": "./static/js/453.d855a71b.chunk.js",
+    "static/media/simv3.jpg": "./static/media/simv3.8eb6a6d16f5f789fbec1.jpg",
+    "static/media/impr2.webp": "./static/media/impr2.15b8e245a4792736e0fe.webp",
+    "static/media/peizash1.webp": "./static/media/peizash1.470aa5a23d8e22cf31a4.webp",
+    "static/media/peizash2.webp": "./static/media/peizash2.1b2b70267cedc5c76c27.webp",
+    "static/media/2.webp": "./static/media/2.6368fc3a3aaa7c313dcc.webp",
+    "static/media/natur1.webp": "./static/media/natur1.cf581771b713a504e597.webp",
+    "static/media/impr4.webp": "./static/media/impr4.9d01f3fb4ef41ed2843a.webp",
+    "static/media/1.webp": "./static/media/1.ab9e06273b6e0b774b8f.webp",
+    "static/media/min1.webp": "./static/media/min1.f8d69e9c5b9b754f68b8.webp",
+    "static/media/simv1.jpg": "./static/media/simv1.eca8cc7e5aeb3713e084.jpg",
+    "static/media/4.webp": "./static/media/4.fc6e46d858ce9a03b3e6.webp",
+    "static/media/impr1.webp": "./static/media/impr1.2e5db929d495b81901a9.webp",
+    "static/media/impr3.webp": "./static/media/impr3.a9ae36760f7afe26bdae.webp",
+    "static/media/3.webp": "./static/media/3.563d28964bb51a280573.webp",
+    "static/media/5.webp": "./static/media/5.c0de7812adc6685b164b.webp",
+    "static/media/real1.webp": "./static/media/real1.c0de7812adc6685b164b.webp",
+    "static/media/abstr2.webp": "./static/media/abstr2.3f5f7ddcb75ec1b5bbe6.webp",
+    "static/media/6.webp": "./static/media/6.8fe7cfd27eb8cffcf261.webp",
+    "static/media/President2.png": "./static/media/President2.5fdc26eb830c501a7c3e.png",
+    "static/media/abstr1.webp": "./static/media/abstr1.35f4c52f6186e9ed687b.webp",
+    "static/media/simv2.jpg": "./static/media/simv2.417caeaf5aaac9bc8369.jpg",
+    "static/media/noAvatar.png": "./static/media/noAvatar.0ddfe4d4a61a21d65a06.png",
+    "static/media/Voitenko.webp": "./static/media/Voitenko.2c6bce04bf2e17c5e824.webp",
+    "static/media/Natalya.webp": "./static/media/Natalya.1a620fca319af8dac753.webp",
+    "static/media/Popova.webp": "./static/media/Popova.0534577c96fc22bdc44d.webp",
+    "static/media/Svetlana.webp": "./static/media/Svetlana.aa7454b472f34a66a6a1.webp",
+    "index.html": "./index.html",
+    "main.db6bade4.css.map": "./static/css/main.db6bade4.css.map",
+    "main.b6d6dbad.js.map": "./static/js/main.b6d6dbad.js.map",
+    "453.d855a71b.chunk.js.map": "./static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db6bade4.css",
+    "static/js/main.b6d6dbad.js"
+  ]
+}
